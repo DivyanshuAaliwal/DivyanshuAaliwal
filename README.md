@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Divyanshu Aaliwal</h1>
+<h1 align="center">Hey, I'm Divyanshu Aaliwal</h1>
 <h3 align="center">A FullStack Developer👨🏻‍💻 </h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/127251155/224327101-cd18a91a-3523-45ca-bc8f-0aa90d690a82.png">
